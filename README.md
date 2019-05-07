@@ -1,3 +1,8 @@
+# !!This is a fork!!
+This repository was forked from the original project, as the original project did
+not export types for `IntercomAPI`. We should revert to using the original project
+once these types are provided.
+
 # react-intercom
 A component to configure and enable Intercom in your react application. `react-intercom` is meant to support both the legacy and current versions of intercom messenger. If you run into issues, please submit an issue. Pull requests are also welcome!
 
